@@ -68,10 +68,10 @@ Create REST endpoints:
 4. LoanController with REST endpoints
 
 ## Verification
-- [ ] Can create a new patron
-- [ ] Can create a loan linking book and patron
-- [ ] Can return a loan
-- [ ] Can query loans by patron
+- [x] Can create a new patron
+- [x] Can create a loan linking book and patron
+- [x] Can return a loan
+- [x] Can query loans by patron
 
 ## Starter Code
 See `starter_code/` directory
